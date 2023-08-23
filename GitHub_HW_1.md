@@ -115,6 +115,7 @@ git pull
 **1. Создать внешний репозиторий c названием XML.**
 
 Перейти на вкладку "Repositories" → Кликнуть на кнопку "New" → Дать название репозиторию в поле "Repository name" → Опционально: поставить чекбокс "Add a README file" → Кликнуть на кнопку "Create repository"
+
 **2. Клонировать репозиторий XML на локальный компьютер.**
 ```
 git clone https://github.com/dubinchuk/XML.git
