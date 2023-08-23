@@ -243,7 +243,7 @@ git add new.txt
 ```
 git commit -m "new.txt created"
 ```
-*6. Отправить файл на внешний GitHub репозиторий.*
+**6. Отправить файл на внешний GitHub репозиторий.**
 ```
 git push
 ```
